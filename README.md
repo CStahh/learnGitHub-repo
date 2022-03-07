@@ -1,3 +1,3 @@
-# Header here... learnGitHub-repo
+# Header here... learnGitHub-repo!
 
-Some very plain description... CStahh learns GitHub
+Some very plain description... CStahh learns GitHub!
