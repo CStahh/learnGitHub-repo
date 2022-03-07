@@ -3,4 +3,4 @@
 Some very plain description... CStahh learns GitHub!
 
 
-Playing around with git, making a new commit... or trying too
+I deleted something this time and I'm going to commit that
